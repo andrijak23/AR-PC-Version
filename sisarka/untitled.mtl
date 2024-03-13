@@ -1,0 +1,32 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Pinecone_Pinus_Peuce
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd slike/Pinecone_Pinus_Peuce.jpg
+
+newmtl Pinecone_Pinus_Peuce1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd slike/Pinecone_Pinus_Peuce1.jpg
+
+newmtl Pinecone_Pinus_Peuce2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd slike/Pinecone_Pinus_Peuce2.jpg
